@@ -1,7 +1,10 @@
-# 济鸣（Ji Ming）
+<p align="center">
+  <img src="logo.png" alt="济鸣 logo" width="180" />
+</p>
 
+<h1 align="center">济鸣（Ji Ming）</h1>
 
-同济 Canvas 作业与课表助手的 Android 安装包。
+<p align="center">同济 Canvas 作业与课表助手的 Android 安装包</p>
 
 > 数据来自 `canvas.tongji.edu.cn` 与 `1.tongji.edu.cn`，使用同济统一身份认证登录。
 
