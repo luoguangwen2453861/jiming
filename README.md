@@ -1,5 +1,5 @@
 # 济鸣（Ji Ming）
-![Uploading logo.jpg…]()
+
 
 同济 Canvas 作业与课表助手的 Android 安装包。
 
